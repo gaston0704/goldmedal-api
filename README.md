@@ -94,6 +94,4 @@ The dataset is loaded automatically from:
 
 src/main/resources/data.sql
 
-## Author
 
-Alecs
